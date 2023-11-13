@@ -9,7 +9,7 @@ Source des données : Base de données Aspen
 
 ### Résultats aux tests provinciaux
 
-Résultats individuels aux tests provinciaux d’OQRE, incluant les résultats en mathématiques, lecture et écriture aux cycles primaire et moyen (3e et 6e année), et au TPCL. 
+Résultats individuels aux tests provinciaux d’OQRE, incluant les résultats en mathématiques, lecture et écriture aux cycles primaire et moyen (3e et 6e année), au TPM et au TPCL. 
 
 Source des données : Plateforme de l’OQRE 
 
